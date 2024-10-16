@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , i'm Sofiane , a 29 year old fresh developer.<br>My favorite language is javascript. I particularly use React .<br>I'm looking for help to improve my skills in back-end development.<br>
+Hi , i'm Sofiane , a 30 year old fresh developer.<br>My favorite language is javascript. I particularly use React .<br>I'm looking for help to improve my skills in back-end development.<br>
 
 
 # 💻 Tech Stack:
